@@ -7,6 +7,13 @@
     <groupId>com.nrsc</groupId>
     <artifactId>algo-study</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-
+    <dependencies>
+        <dependency>
+            <groupId>org.junit.jupiter</groupId>
+            <artifactId>junit-jupiter</artifactId>
+            <version>RELEASE</version>
+            <scope>compile</scope>
+        </dependency>
+    </dependencies>
 
 </project>
